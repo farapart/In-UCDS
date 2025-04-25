@@ -1,7 +1,7 @@
 # In-UCDS
 Source code of "In-processing User Constrained Dominant Sets for User-Oriented Fairness in Recommender Systems", which has been published in ACM MM 2023.
 
-For the detailed code and entire datasets, please refer to our Reproducibility Companion Paper "Reproducibility Companion Paper: In-processing User Constrained Dominant Sets for User-Oriented Fairness in Recommender Systems". [arxiv地址](https://arxiv.org/abs/2503.23040).
+For the detailed code and entire datasets, please refer to our Reproducibility Companion Paper "Reproducibility Companion Paper: In-processing User Constrained Dominant Sets for User-Oriented Fairness in Recommender Systems". [arxiv](https://arxiv.org/abs/2503.23040).
 
 
 ## Citation
